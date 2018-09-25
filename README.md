@@ -6,14 +6,14 @@ The goal of this task is to show how much volatility there would be if you could
 
 If you are in doubt of a detail of the spec just use your best judgement and let me know what you decided with the submission. 
 
-On the front-end side of the problem, please do not worry to much about design, obviously better looking things are nicer but there is no need to worry about pixel pushing. What is important is that the UX shows consideration of what the problem is trying to solve.
+On the front-end side of the problem, please do not worry too much about design, obviously better looking things are nicer but there is no need to worry about pixel pushing. What is important is that the UX shows consideration of what the problem is trying to solve.
 
 The spec
 --------
 
-The South African government is considering allowing for medication to be bought using Bitcoin (don't worry this is not true). The want to tool that will allow consumers to understand how their payments would have changed over time if they had been paying for their medication in bitcoin. 
+The South African government is considering allowing for medication to be bought using Bitcoin (don't worry this is not true). They want a tool that will allow consumers to understand how their payments historically would have changed over time if they had been paying for their medication in bitcoin. 
 
-The app needs to provide a search input where users can enter the name of their medication, then it needs to (through hitting a number of different services) show what the effective full-pack price of their medication would have been in Bitcoin, assuming the medications Rand price remained stable at the current price:
+The app needs to provide a search input where users can enter the name of their medication, then it needs to (through hitting a number of different services) show what the effective full-pack price of their medication would have been in Bitcoin, assuming the medication's Rand price remained stable at the current price:
   * Today
   * 1 Day ago
   * 1 week ago
@@ -21,9 +21,9 @@ The app needs to provide a search input where users can enter the name of their 
   * 1 Year ago
   * 5 years ago
 
-It should also help the user interpret the consequences of this in some way (Just some simple stats that make sense to the user).
+It should also help the user interpret the consequences of this in some way (just some simple stats that make sense to the user).
 
-You can make some simplifications about how actual currency exchange works, what we are looking for here is something high level and indicative, not somethign that deals with teh technicalities of currency trades.
+You can make some simplifications about how actual currency exchange works, what we are looking for here is something high level and indicative, not something that deals with the technicalities of currency trades.
 
 Some pointers on resources
 --------------------------
