@@ -2,7 +2,7 @@
 
 *An initial interview task*
 
-The goal of this task is to show how much volatility there would have been if you had could pay for basic medicines in Bitcoin. The spec is left a little open ended. You have limited resources to work with but they are enough to complete the task. The goal of this task is to get a feeling for your programming and problem solving ability, but it is very basic and should not take more than a few hours. 
+The goal of this task is to show how much volatility there would be if you could pay for basic medicines in Bitcoin. The spec is left a little open ended. You have limited resources to work with but they are enough to complete the task. The goal of this task is to get a feeling for your programming and problem solving ability, but it is very basic and should not take more than a few hours. 
 
 If you are in doubt of a detail of the spec just use your best judgement and let me know what you decided with the submission. 
 
@@ -49,4 +49,4 @@ You can choose between using Python or Node for this on the backend. You may use
 
 I run an Ubuntu machine, and I would like to be able to run the service by running a single script (it does not have to be a production deployment).
 
-Please let me know if you hit any blocking issue.
+Please let me know if you hit any blocking issues.
