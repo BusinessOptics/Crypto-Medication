@@ -25,6 +25,8 @@ It should also help the user interpret the consequences of this in some way (jus
 
 You can make some simplifications about how actual currency exchange works, what we are looking for here is something high level and indicative, not something that deals with the technicalities of currency trades.
 
+It is expected that you will be buolding a web app for this task, not a command line app.
+
 Some pointers on resources
 --------------------------
 
